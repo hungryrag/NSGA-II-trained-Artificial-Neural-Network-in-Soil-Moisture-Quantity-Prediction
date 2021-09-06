@@ -1,0 +1,2 @@
+# NSGA-II-trained-Artificial-Neural-Network-in-Soil-Moisture-Quantity-Prediction
+We trained our deep learning model using evolutionary algorithm Particle Swarm Optimization (PSO) and genetic algorithm Multi‐Objective Optimization using Non‐Dominated Sorting Genetic Algorithm (NSGA‐II) to overcome the drawbacks of back propagation and gradient descent algorithm and so that we can always locate the global minima.
